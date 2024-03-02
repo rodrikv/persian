@@ -29,7 +29,7 @@ package main
 
 import (
 	"fmt"
-	"your_module/persian"
+	"github.com/rodrikv/persian"
 )
 
 func main() {
